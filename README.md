@@ -1,5 +1,3 @@
-# Tron-AI-Evolution
-A cutting-edge AI system that uses genetic algorithms and neural networks to master the classic Tron Light Cycles game.  
 Tron Light Cycle AI - Project Documentation
 Overview
 A genetic algorithm-powered neural network system that learns to play the classic Tron Light Cycle game through evolutionary training. The AI agents compete in a grid-based environment, developing strategies through natural selection.

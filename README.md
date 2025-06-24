@@ -64,7 +64,7 @@ game_env.py - Core game logic and environment
 
 genetic_nn.py - Neural network implementation
 
-visualization.py - Pygame rendering system
+game_screen.py - Pygame rendering system
 
 saved_population.pkl - Trained model storage
 
